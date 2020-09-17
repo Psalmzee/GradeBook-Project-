@@ -1,0 +1,33 @@
+C:\Users\EVERGREEN\source\repos\CsharpGradeBook\CsharpGradeBook\bin\Debug\netcoreapp2.2\CsharpGradeBook.deps.json
+C:\Users\EVERGREEN\source\repos\CsharpGradeBook\CsharpGradeBook\bin\Debug\netcoreapp2.2\CsharpGradeBook.runtimeconfig.json
+C:\Users\EVERGREEN\source\repos\CsharpGradeBook\CsharpGradeBook\bin\Debug\netcoreapp2.2\CsharpGradeBook.runtimeconfig.dev.json
+C:\Users\EVERGREEN\source\repos\CsharpGradeBook\CsharpGradeBook\bin\Debug\netcoreapp2.2\CsharpGradeBook.dll
+C:\Users\EVERGREEN\source\repos\CsharpGradeBook\CsharpGradeBook\bin\Debug\netcoreapp2.2\CsharpGradeBook.pdb
+C:\Users\EVERGREEN\source\repos\CsharpGradeBook\CsharpGradeBook\obj\Debug\netcoreapp2.2\CsharpGradeBook.csprojAssemblyReference.cache
+C:\Users\EVERGREEN\source\repos\CsharpGradeBook\CsharpGradeBook\obj\Debug\netcoreapp2.2\CsharpGradeBook.csproj.CoreCompileInputs.cache
+C:\Users\EVERGREEN\source\repos\CsharpGradeBook\CsharpGradeBook\obj\Debug\netcoreapp2.2\CsharpGradeBook.AssemblyInfoInputs.cache
+C:\Users\EVERGREEN\source\repos\CsharpGradeBook\CsharpGradeBook\obj\Debug\netcoreapp2.2\CsharpGradeBook.AssemblyInfo.cs
+C:\Users\EVERGREEN\source\repos\CsharpGradeBook\CsharpGradeBook\obj\Debug\netcoreapp2.2\CsharpGradeBook.dll
+C:\Users\EVERGREEN\source\repos\CsharpGradeBook\CsharpGradeBook\obj\Debug\netcoreapp2.2\CsharpGradeBook.pdb
+C:\Users\EVERGREEN\source\repos\GradebookProject\Src\CsharpGradeBook\CsharpGradeBook\bin\Debug\netcoreapp2.2\CsharpGradeBook.deps.json
+C:\Users\EVERGREEN\source\repos\GradebookProject\Src\CsharpGradeBook\CsharpGradeBook\bin\Debug\netcoreapp2.2\CsharpGradeBook.runtimeconfig.json
+C:\Users\EVERGREEN\source\repos\GradebookProject\Src\CsharpGradeBook\CsharpGradeBook\bin\Debug\netcoreapp2.2\CsharpGradeBook.runtimeconfig.dev.json
+C:\Users\EVERGREEN\source\repos\GradebookProject\Src\CsharpGradeBook\CsharpGradeBook\bin\Debug\netcoreapp2.2\CsharpGradeBook.dll
+C:\Users\EVERGREEN\source\repos\GradebookProject\Src\CsharpGradeBook\CsharpGradeBook\bin\Debug\netcoreapp2.2\CsharpGradeBook.pdb
+C:\Users\EVERGREEN\source\repos\GradebookProject\Src\CsharpGradeBook\CsharpGradeBook\obj\Debug\netcoreapp2.2\CsharpGradeBook.csprojAssemblyReference.cache
+C:\Users\EVERGREEN\source\repos\GradebookProject\Src\CsharpGradeBook\CsharpGradeBook\obj\Debug\netcoreapp2.2\CsharpGradeBook.csproj.CoreCompileInputs.cache
+C:\Users\EVERGREEN\source\repos\GradebookProject\Src\CsharpGradeBook\CsharpGradeBook\obj\Debug\netcoreapp2.2\CsharpGradeBook.AssemblyInfoInputs.cache
+C:\Users\EVERGREEN\source\repos\GradebookProject\Src\CsharpGradeBook\CsharpGradeBook\obj\Debug\netcoreapp2.2\CsharpGradeBook.AssemblyInfo.cs
+C:\Users\EVERGREEN\source\repos\GradebookProject\Src\CsharpGradeBook\CsharpGradeBook\obj\Debug\netcoreapp2.2\CsharpGradeBook.dll
+C:\Users\EVERGREEN\source\repos\GradebookProject\Src\CsharpGradeBook\CsharpGradeBook\obj\Debug\netcoreapp2.2\CsharpGradeBook.pdb
+C:\Users\EVERGREEN\Desktop\Samson Okeji's GradeBook Project\GradebookProject\Src\CsharpGradeBook\CsharpGradeBook\bin\Debug\netcoreapp2.2\CsharpGradeBook.deps.json
+C:\Users\EVERGREEN\Desktop\Samson Okeji's GradeBook Project\GradebookProject\Src\CsharpGradeBook\CsharpGradeBook\bin\Debug\netcoreapp2.2\CsharpGradeBook.runtimeconfig.json
+C:\Users\EVERGREEN\Desktop\Samson Okeji's GradeBook Project\GradebookProject\Src\CsharpGradeBook\CsharpGradeBook\bin\Debug\netcoreapp2.2\CsharpGradeBook.runtimeconfig.dev.json
+C:\Users\EVERGREEN\Desktop\Samson Okeji's GradeBook Project\GradebookProject\Src\CsharpGradeBook\CsharpGradeBook\bin\Debug\netcoreapp2.2\CsharpGradeBook.dll
+C:\Users\EVERGREEN\Desktop\Samson Okeji's GradeBook Project\GradebookProject\Src\CsharpGradeBook\CsharpGradeBook\bin\Debug\netcoreapp2.2\CsharpGradeBook.pdb
+C:\Users\EVERGREEN\Desktop\Samson Okeji's GradeBook Project\GradebookProject\Src\CsharpGradeBook\CsharpGradeBook\obj\Debug\netcoreapp2.2\CsharpGradeBook.CsprojAssemblyReference.cache
+C:\Users\EVERGREEN\Desktop\Samson Okeji's GradeBook Project\GradebookProject\Src\CsharpGradeBook\CsharpGradeBook\obj\Debug\netcoreapp2.2\CsharpGradeBook.Csproj.CoreCompileInputs.cache
+C:\Users\EVERGREEN\Desktop\Samson Okeji's GradeBook Project\GradebookProject\Src\CsharpGradeBook\CsharpGradeBook\obj\Debug\netcoreapp2.2\CsharpGradeBook.AssemblyInfoInputs.cache
+C:\Users\EVERGREEN\Desktop\Samson Okeji's GradeBook Project\GradebookProject\Src\CsharpGradeBook\CsharpGradeBook\obj\Debug\netcoreapp2.2\CsharpGradeBook.AssemblyInfo.cs
+C:\Users\EVERGREEN\Desktop\Samson Okeji's GradeBook Project\GradebookProject\Src\CsharpGradeBook\CsharpGradeBook\obj\Debug\netcoreapp2.2\CsharpGradeBook.dll
+C:\Users\EVERGREEN\Desktop\Samson Okeji's GradeBook Project\GradebookProject\Src\CsharpGradeBook\CsharpGradeBook\obj\Debug\netcoreapp2.2\CsharpGradeBook.pdb

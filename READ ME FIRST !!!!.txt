@@ -1,0 +1,30 @@
+OKEJI SAMSON ADEIZA'S GRADEBOOK PROJECT - C#
+
+
+**Developed By Samson Okeji**
+
+***REQUIREMENTS***
+
+- Visual Studio or Any related IDE to load a solution file.
+
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED TO THIS PROGRAM, FEEL FREE TO CONTACT ME VIA EMAIL@ ENGRSAMSONOKEJI@GMAIL.COM *****  
+
+
+*****BRIEF DESCRIPTION OF PROGRAM *****
+This Gradebook program is aimed at computing the:
+ 
+>>Average Grade
+>>Maximum Score
+>>Minimum Score
+
+
+**********NOTE***************
+This program takes care of the following exceptions:
+
+>>Format Exceptions
+>>Argument Exception
+
+This program also comes with unit test written using xunit.
+>>These unit tests were written so to be sure that the program behaves and produces the expected/desired result/output.
+
+Best Regards! Samson Okeji Loves You!
